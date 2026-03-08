@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Software Engineer • Data Science Mentor • Cybersecurity / CTF Builder</b><br/>
-  <i> Building systems, automating workflows, and solving real-world problems with code, data, and security mindset. </i>
+  <i> Building systems, automating workflows, and solving real-world problems. </i>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 - 📊 **Data science practitioner & mentor** (ML, analytics, computer vision, model evaluation)
 - 🛡️ **Cybersecurity & CTF enthusiast** focused on recon automation, vulnerability analysis, and practical offensive security workflows
 - 🤖 Building **AI-powered systems** (LLMs, agent workflows, knowledge-base assistants, local/offline AI setups)
-- 🌍 Community-driven builder with interest in **education**, **public-sector digital transformation**, and **developer ecosystems**
+- 🌍 Community-driven builder with interest in **automation**, **public-sector digital transformation**, and **developer ecosystems**
 
 ---
 
@@ -199,18 +199,13 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DesertDemons&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesertDemons&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DesertDemons&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DesertDemons&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
+
 
 ---
 
@@ -222,50 +217,7 @@
   <img src="https://img.shields.io/badge/Focus-Impactful%20Systems%20with%20Real%20Use-0ea5e9?style=for-the-badge"/>
 </p>
 
----
 
-## 🤝 Connect / Collaborate
-
-<p align="center">
-  <a href="https://github.com/DesertDemons">
-    <img src="https://img.shields.io/badge/GitHub-DesertDemons-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <!-- Add more links below if you want -->
-  <!--
-  <a href="https://www.linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/yourhandle">
-    <img src="https://img.shields.io/badge/X-@yourhandle-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  -->
-</p>
-
----
-
-## 🐍 Contribution Snake (Optional)
-
-> If you want the animated snake graph, enable a GitHub Action in this profile repo and output to `dist/github-contribution-grid-snake.svg`.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DesertDemons/DesertDemons/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-<details>
-  <summary><b>🛠️ Quick Customization Tips (Click to expand)</b></summary>
-  <br/>
-
-- Replace/add your real social links in **Connect / Collaborate**
-- If a badge/tool is not part of your current stack, remove it
-- Add pinned project links under a new **🔥 Featured Projects** section
-- If you want a darker/minimal version, I can make a second version (clean + elite style)
-- If you want Arabic/English bilingual profile README, I can build that too
-
-</details>
-
----
 
 <p align="center">
   <b>⚡ Code • Data • Security ⚡</b><br/>
