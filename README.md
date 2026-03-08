@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Programming+%F0%9F%92%BB+%7C+Data+Science+%F0%9F%93%8A+%7C+Cybersecurity+%F0%9F%94%90;Building+real-world+systems+for+education%2C+operations%2C+and+automation;CTF+automation%2C+recon+pipelines%2C+and+AI-assisted+workflows;Turning+ideas+into+production-ready+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Programming+%F0%9F%92%BB+%7C+Data+Science+%F0%9F%93%8A+%7C+Cybersecurity+%F0%9F%94%90;Building+real-world+systems%2C+operations%2C+and+automation;CTF+automation%2C+recon+pipelines%2C+and+AI-assisted+workflows;Turning+ideas+into+production-ready+solutions" alt="Typing SVG" />
 </p>
 
 ---
