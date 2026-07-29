@@ -199,10 +199,11 @@
 
 ## 📈 GitHub Stats
 
-
-
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DesertDemons&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=DesertDemons&theme=tokyonight&hide_border=true"
+    alt="DesertDemons GitHub Streak"
+  />
 </p>
 
 
