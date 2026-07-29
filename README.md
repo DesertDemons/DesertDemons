@@ -6,7 +6,7 @@
 <h1 align="center">⚡ DesertDemons ⚡</h1>
 
 <p align="center">
-  <b>Software Engineer • Data Science Mentor • Cybersecurity / CTF Builder</b><br/>
+  <b>Software Engineer • Data Science Mentor • Cybersecurity </b><br/>
   <i> Building systems, automating workflows, and solving real-world problems. </i>
 </p>
 
