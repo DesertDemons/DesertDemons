@@ -6,7 +6,7 @@
 <h1 align="center">⚡ DesertDemons ⚡</h1>
 
 <p align="center">
-  <b>Software Engineer • Data Science Mentor • Cybersecurity </b><br/>
+  <b>Software Developer • Data Science Mentor • Cybersecurity </b><br/>
   <i> Building systems, automating workflows, and solving real-world problems. </i>
 </p>
 
@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏗️ **Software engineer / project supervisor** building scalable systems and workflow-driven platforms
+- 🏗️ **Software Developer / project supervisor** building scalable systems and workflow-driven platforms
 - 📊 **Data science practitioner & mentor** (ML, analytics, computer vision, model evaluation)
 - 🛡️ **Cybersecurity & CTF enthusiast** focused on recon automation, vulnerability analysis, and practical offensive security workflows
 - 🤖 Building **AI-powered systems** (LLMs, agent workflows, knowledge-base assistants, local/offline AI setups)
